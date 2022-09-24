@@ -1,10 +1,10 @@
-......................................................................................................................
+---
 Semester project 
 Name: SimpleDerivative
 Author: Jakub Hajko
 class: Non-procedural programming [ NPRG005 ]
 Year: 2022/23 (Second year summer semester)
-......................................................................................................................
+---
 
 README
     SimpleDerivative is a tool that is able to find a derivative of a simple function. Program is also capable of simplifying functions (SIMPLIFICATION RULES) and calculating the value of the function at an element x(substitute Float number).
